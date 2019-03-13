@@ -1,0 +1,22 @@
+cat LOG* > log_all.csv 
+grep "X," log_all.csv > log_X.csv
+grep "D," log_all.csv > log_D.csv
+grep "I," log_all.csv > log_I.csv
+grep "P," log_all.csv > log_P.csv
+grep "T," log_all.csv > log_T.csv
+grep "R," log_all.csv > log_R.csv
+grep "O," log_all.csv > log_O.csv
+sed 's/,X,/,/g' log_X.csv > log_X_clean.csv
+sed 's/,D,/,/g' log_D.csv > log_D_clean.csv
+sed 's/,I,/,/g' log_I.csv > log_I_clean.csv
+sed 's/,P,/,/g' log_P.csv > log_P_clean.csv
+sed 's/,T,/,/g' log_T.csv > log_T_clean.csv
+sed 's/,R,/,/g' log_R.csv > log_R_clean.csv
+sed 's/,O,/,/g' log_O.csv > log_O_clean.csv
+sed '/,R,/d' log_X_clean.csv > X.csv
+sed '/,R,/d' log_D_clean.csv > D.csv
+sed '/,R,/d' log_I_clean.csv > I.csv
+sed '/,R,/d' log_P_clean.csv > P.csv
+sed '/,R,/d' log_T_clean.csv > T.csv
+sed '/,R,/d' log_R_clean.csv > R.csv
+sed '/,R,/d' log_O_clean.csv > O.csv
