@@ -1,0 +1,15 @@
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\bin\Debug\OctanisWpfNestbox.exe.config
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\bin\Debug\OctanisWpfNestbox.exe
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\bin\Debug\OctanisWpfNestbox.pdb
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox.csprojAssemblyReference.cache
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\MainWindow.g.cs
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\App.g.cs
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox_MarkupCompile.cache
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox_MarkupCompile.lref
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\MainWindow.baml
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox.g.resources
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox.Properties.Resources.resources
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox.csproj.GenerateResource.cache
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox.csproj.CoreCompileInputs.cache
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox.exe
+C:\Users\Jérôme\source\repos\OctanisWpfNestbox\OctanisWpfNestbox\obj\Debug\OctanisWpfNestbox.pdb

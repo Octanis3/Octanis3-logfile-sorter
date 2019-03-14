@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctanisWpfNestbox", "OctanisWpfNestbox\OctanisWpfNestbox.csproj", "{A19B952E-F54A-4BA3-9444-B01E2B716B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19B952E-F54A-4BA3-9444-B01E2B716B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19B952E-F54A-4BA3-9444-B01E2B716B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19B952E-F54A-4BA3-9444-B01E2B716B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19B952E-F54A-4BA3-9444-B01E2B716B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48EDBF0-2A41-4732-A22F-C707CAC73377}
+	EndGlobalSection
+EndGlobal
